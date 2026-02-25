@@ -2,7 +2,7 @@
 
 I use Ace-Step-Trainer but will be trying out the other trainers shortly - 
 <img width="1246" height="539" alt="image" src="https://github.com/user-attachments/assets/fbe31890-401b-4e5d-bdf7-72acc145c3f9" />
-Above: I select Base , I initially used SFT but from most of the advice , it appears that Base is the best um......base for training 
+Above: I select Base , I initially used SFT but from most of the advice , it appears that Base is the best um......base for training as it allows you to use other models for making tunes (ie SFT / Turbo Loras aren't so flexible to use with other models to make songs) 
 
 <img width="1873" height="946" alt="image" src="https://github.com/user-attachments/assets/2ff8a00b-a314-43e9-80d4-8ffc659691e6" />
 
