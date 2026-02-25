@@ -32,6 +32,7 @@ Upper half of the Training tab, I select my GPU and it puts in the values - I ad
 
 Middle section of the training tab , I increase the Steps to max
 
-<img width="1886" height="954" alt="image" src="https://github.com/user-attachments/assets/890a2766-f7df-4d6f-99f8-f252c5fe742e" />
+<img width="1875" height="941" alt="Screenshot 2026-02-18 193815" src="https://github.com/user-attachments/assets/a9c64ce5-10df-4e9b-b0b5-02095dfa1bf5" />
+
 
 Adjusting the output lora directory, just a matter of pressing Start Training and then Export after it's done. 
