@@ -17,7 +17,7 @@ Genre Ratio should be at 30% and position for tag is Prepend (both of these are 
 
 <img width="1877" height="718" alt="image" src="https://github.com/user-attachments/assets/d26034f3-e7a5-45b0-adaa-a4294c6bb018" />
 
-Lower section of Dataset tab , obviously pressing the Analyse and then the Save buttons on the screen
+Lower section of Dataset tab , obviously pressing the Auto-Label All and then the Save buttons on the screen
 
 <img width="1864" height="564" alt="image" src="https://github.com/user-attachments/assets/51bdf114-5226-4d8b-8143-0701893793ad" />
 
