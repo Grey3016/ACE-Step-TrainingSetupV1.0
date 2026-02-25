@@ -9,7 +9,7 @@ I select Base , I initially used SFT but from most of the advice , it appears th
 Upper section of the DataSet tab
 
 
-Note that the files have a lyrics txt file associated with them ie the same name but with a .txt suffix . I use a preparatory python file that gets them ready for training - normalises the folder of audio files , renames them to their tags (this gives the best chance of finding their lyrics) , then searches for the lyrics and finally saves them as a 48kHz wav in a separate folder (along with their lyrics)
+Note that the files have a lyrics txt file associated with them ie the same name but with a .txt suffix . I use a preparatory python file that gets them ready for training - normalises the folder of audio files , renames them to their tags (this gives the best chance of finding their lyrics) , then searches for the lyrics and finally saves them as a 48kHz wav in a separate folder (along with their lyrics) > https://github.com/Grey3016/Prepare-Audio-Files-for-Training
 
 In this example, all of the tracks are not instrumental , so I've NOT selected the Instrumental box .
 
